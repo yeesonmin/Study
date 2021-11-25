@@ -1,0 +1,65 @@
+﻿<Window x:Class="_04_Data_Binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04_Data_Binding"
+        xmlns:vm="clr-namespace:_04_Data_Binding.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Window.Resources>
+        <vm:Duties x:Key="duties"/>
+        
+        <DataTemplate x:Key="MyTemplate">
+            <Border x:Name="boder">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Duty Name : "/>
+                    <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding Path=DutyName}"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Duty Type : "/>
+                    <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Path=DutyType}"/>
+                    <Separator Grid.Row="2" Grid.ColumnSpan="2"/>
+                </Grid>
+            </Border> 
+        </DataTemplate>
+
+        <LinearGradientBrush x:Key="GrayBlueGradientBrush" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="DarkGray" Offset="0"/>
+            <GradientStop Color="#ccccff" Offset="0.5"/>
+            <GradientStop Color="DarkGray" Offset="1"/>
+        </LinearGradientBrush>
+
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="{StaticResource GrayBlueGradientBrush}"/>
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Height" Value="10"/>
+        </Style>
+    </Window.Resources>
+
+    <StackPanel>
+        <Button x:Name="Add" Height="Auto" Margin="10" Click="OpenNewWindow" Content="직무 추가"/>
+        <TextBlock Margin="10" Text="직무 타입을 선택"/>
+        <ListBox x:Name="ltb1" Margin="10" SelectionChanged="ltb1_SelectionChanged" SelectedIndex="0">
+            <ListBoxItem>
+                Inner
+            </ListBoxItem>
+            <ListBoxItem>
+                OutSide
+            </ListBoxItem>
+        </ListBox>
+
+        <TextBlock Text="직무"/>
+        <ListBox x:Name="ltb2" Margin="10"  HorizontalAlignment="Stretch" ItemsSource="{Binding}" ItemTemplate="{StaticResource MyTemplate}" SelectionChanged="ltb2_SelectionChanged"> 
+            
+        </ListBox>
+    </StackPanel>
+</Window>

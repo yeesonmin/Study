@@ -1,0 +1,30 @@
+﻿<Window x:Class="_04_Data_Binding.SubWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04_Data_Binding"
+        mc:Ignorable="d"
+        Title="SubWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock FontSize="20" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Text="직무등록"/>
+        <TextBlock Grid.Row="1" Text="직무명"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtDutyName"/>
+        <TextBlock Grid.Row="2" Text="직무타입"/>
+        <RadioButton x:Name="rdoInner" Content="내근" Grid.Row="2" Grid.Column="1"/>
+        <RadioButton x:Name="rdoOutside" Content="외근" Grid.Row="2" Grid.Column="2"/>
+        <Button  Grid.Column="1" Grid.Row="3" Content="저장" Click="Button_Click"/>
+    </Grid>
+</Window>
