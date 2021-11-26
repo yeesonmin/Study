@@ -1,0 +1,9 @@
+﻿<Application x:Class="_05_의존프로퍼티_DependencyProperty_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_05_의존프로퍼티_DependencyProperty_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
