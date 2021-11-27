@@ -1,0 +1,15 @@
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\bin\Debug\07_DataBindling (xaml간).exe.config
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\bin\Debug\07_DataBindling (xaml간).exe
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\bin\Debug\07_DataBindling (xaml간).pdb
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).csproj.AssemblyReference.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\MainWindow.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\App.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간)_MarkupCompile.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간)_MarkupCompile.lref
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\MainWindow.baml
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).g.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\_07_DataBindling__xaml간_.Properties.Resources.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).csproj.GenerateResource.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).csproj.CoreCompileInputs.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).exe
+C:\Users\yeeso\Desktop\Study\CS WPF\07_DataBindling (xaml간)\obj\Debug\07_DataBindling (xaml간).pdb

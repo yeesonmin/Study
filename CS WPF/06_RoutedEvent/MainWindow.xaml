@@ -1,0 +1,29 @@
+﻿<Window x:Class="_06_RoutedEvent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_06_RoutedEvent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        PreviewMouseDown="Window_PreviewMouseDown">
+    <!--ButtonBase.Click="Window_Click" 버블이벤트
+    <Grid>
+        <StackPanel Margin="20" ButtonBase.Click="StackPanel_Click">
+            <StackPanel Margin="10">
+                <TextBlock x:Name="tb1" Text="tb1" Margin="5"/>
+                <TextBlock x:Name="tb2" Text="tb2" Margin="5"/>
+                <TextBlock x:Name="tb3" Text="tb3" Margin="5"/>
+            </StackPanel>
+            <Button Width="80" Height="80" Click="Button_Click"/>
+        </StackPanel>
+      
+    </Grid>
+    -->
+
+    <StackPanel PreviewMouseDown="StackPanel_PreviewMouseDown">
+        <Border Margin="20" Padding="5" BorderThickness="3" CornerRadius="3" >
+            <Button Margin="5" Height="20" Width="20" PreviewMouseDown="Button_PreviewMouseDown"/>
+        </Border>
+    </StackPanel>
+</Window>

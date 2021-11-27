@@ -1,0 +1,15 @@
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\bin\Debug\_06_RoutedEvent.exe.config
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\bin\Debug\_06_RoutedEvent.exe
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\bin\Debug\_06_RoutedEvent.pdb
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\06_RoutedEvent.csproj.AssemblyReference.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\MainWindow.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\App.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent_MarkupCompile.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent_MarkupCompile.lref
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\MainWindow.baml
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent.g.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent.Properties.Resources.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\06_RoutedEvent.csproj.GenerateResource.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\06_RoutedEvent.csproj.CoreCompileInputs.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent.exe
+C:\Users\yeeso\Desktop\Study\CS WPF\06_RoutedEvent\obj\Debug\_06_RoutedEvent.pdb

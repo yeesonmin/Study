@@ -1,0 +1,28 @@
+﻿<Window x:Class="_07_DataBindling__xaml간_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07_DataBindling__xaml간_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel >
+            <CheckBox Content="A" IsChecked="{Binding A}"/>
+            <CheckBox Content="B" IsChecked="{Binding B}"/>
+            <CheckBox Content="C" IsChecked="{Binding C}"/>
+            <Button Content="제출" Click="Button_Click"/>
+
+            <!--소스없이 객체들간 데이터 전송 -->
+            <!--Mode에 따라 데이터 전송이 다름-->
+            <TextBox x:Name="txt1" Text="{Binding Mode=OneWay}"/>
+            <TextBox x:Name="txt2" Text="{Binding Source={x:Reference txt1}, Path=Text}"/>
+
+            <!--대부분의 의존속성기본값은 PropertyChanged, Txt는 LostFocus다. -->
+            <!--그래서 양방향으로 실시간으로 변환을 주기위해 PropertyChanged를 추가해야함. -->
+            <TextBox x:Name="txt3" Text="{Binding Mode=TwoWay, Path=Text}"/>
+            <TextBox x:Name="txt4" Text="{Binding Source={x:Reference txt3}, Path=Text, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>
