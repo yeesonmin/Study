@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_RoutedEvent", "06_Routed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DataBindling (xaml간)", "07_DataBindling (xaml간)\07_DataBindling (xaml간).csproj", "{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_INotyfyPropertChanged_PropertyChanged", "08_INotyfyPropertChanged_PropertyChanged\08_INotyfyPropertChanged_PropertyChanged.csproj", "{523E7E33-8847-401F-A5EA-42D6772853F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523E7E33-8847-401F-A5EA-42D6772853F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523E7E33-8847-401F-A5EA-42D6772853F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523E7E33-8847-401F-A5EA-42D6772853F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523E7E33-8847-401F-A5EA-42D6772853F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{A1D060C9-2FDA-4E9F-8702-7965C0715D8E} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{62CC519F-F98B-4B06-BBC9-17B8353909A8} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
+		{523E7E33-8847-401F-A5EA-42D6772853F3} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC65E998-4C8C-4269-B014-A261D0AAD2FF}

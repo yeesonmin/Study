@@ -1,0 +1,29 @@
+﻿<Window x:Class="_08_INotyfyPropertChanged_PropertyChanged.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_08_INotyfyPropertChanged_PropertyChanged"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="이름"/>
+        <TextBlock Text="성" Grid.Row="1"/>
+
+        <TextBox Grid.Column="1" Text="{Binding FIRSTNAME}"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding LASTNAME}"/>
+
+        <Button Grid.Column="0" Grid.Row="2" Content="보기" Name="btn1" Click="btn1_Click"/>
+        <Button Grid.Column="1" Grid.Row="2" Content="변환" Name="btn2" Click="btn2_Click"/>
+    </Grid>
+</Window>
