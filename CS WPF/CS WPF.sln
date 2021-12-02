@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DataBindling (xaml간)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_INotyfyPropertChanged_PropertyChanged", "08_INotyfyPropertChanged_PropertyChanged\08_INotyfyPropertChanged_PropertyChanged.csproj", "{523E7E33-8847-401F-A5EA-42D6772853F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command", "09_Command\09_Command.csproj", "{DCBED618-69A0-4270-80E0-66FF4056CF64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command02", "09_Command\09_Command02.csproj", "{DCBED618-69A0-4270-80E0-66FF4056CF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command01", "09_Command01\09_Command01.csproj", "{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{DCBED618-69A0-4270-80E0-66FF4056CF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCBED618-69A0-4270-80E0-66FF4056CF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCBED618-69A0-4270-80E0-66FF4056CF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{523E7E33-8847-401F-A5EA-42D6772853F3} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{DCBED618-69A0-4270-80E0-66FF4056CF64} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
+		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC65E998-4C8C-4269-B014-A261D0AAD2FF}

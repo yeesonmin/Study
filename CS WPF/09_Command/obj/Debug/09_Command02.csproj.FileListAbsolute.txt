@@ -1,0 +1,16 @@
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\bin\Debug\09_Command.exe.config
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\bin\Debug\09_Command.exe
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\bin\Debug\09_Command.pdb
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command02.csproj.AssemblyReference.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\MainWindow.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\App.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command_MarkupCompile.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command_MarkupCompile.lref
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\MainWindow.baml
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command.g.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\_09_Command.Properties.Resources.resources
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command02.csproj.GenerateResource.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command02.csproj.CoreCompileInputs.cache
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command.exe
+C:\Users\yeeso\Desktop\Study\CS WPF\09_Command\obj\Debug\09_Command.pdb

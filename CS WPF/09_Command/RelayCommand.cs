@@ -23,10 +23,14 @@ namespace _09_Command
             this.canExecute = canExecute;
         }
 
+        #region CanExecute
+
+        //WPF가 호출함.
+        //시시때때로 동작함.
         public bool CanExecute(object param)
         {
             //사원이름이 없으면 버튼 비활성화
-            if(param?.ToString().Length == 0)
+            if (param?.ToString().Length == 0)
             {
                 return false;
             }
@@ -36,6 +40,15 @@ namespace _09_Command
             return result;
         }
 
+        //command와 연결된 컨트롤 상태(활성, 비활성)를 변경한다.
+        public event EventHandler CanExecuteChanged
+        {
+            add { CommandManager.RequerySuggested += value; }
+            remove { CommandManager.RequerySuggested -= value; }
+        }
+        #endregion
+
+
         //executeAction 델리게이트가 참조하고 있는 메소드는 
         //MainViewModel의 AddEmp이다.
         public void Execute(object param)
@@ -43,10 +56,6 @@ namespace _09_Command
             this.executeAction.Invoke(param);
         }
 
-        public event EventHandler CanExecuteChanged
-        {
-            add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested -= value; }
-        }
+       
     }
 }
