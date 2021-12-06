@@ -1,0 +1,57 @@
+﻿<Window x:Class="_10_ListCollectionView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10_ListCollectionView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:EMPViewModel x:Key="emps"/>
+        <DataTemplate x:Key="template">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="{Binding Path=Empno}"/>
+                <TextBlock Grid.Column="1" Text="{Binding Path=Name}"/>
+                <TextBlock Grid.Column="2" Text="{Binding Path=Job}"/>
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    <StackPanel x:Name="root" DataContext="{Binding Source={StaticResource emps}}" DataContextChanged="root_DataContextChanged">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="사원리스트" HorizontalAlignment="Center" Grid.Column="1"/>
+            <Button Grid.Row="1" x:Name="btnEmpno" Content="Empno" Click="EVENT_Click"/>
+            <Button Grid.Row="1" Grid.Column="1" x:Name="btnName" Content="Name" Click="EVENT_Click"/>
+            <Button Grid.Row="1" Grid.Column="2" x:Name="btnJob" Content="Job" Click="EVENT_Click"/>
+            <!--IsSynchronizedWithCurrentItem True로 하면 마우스로 선택한 값이 같은 이름으로 바인딩 된 곳에 값이 연동됨.-->
+            <ListBox Grid.Row="2" Grid.ColumnSpan="3" x:Name="lbx_emp" ItemsSource="{Binding Source={StaticResource emps}}" ItemTemplate="{StaticResource template}" IsSynchronizedWithCurrentItem="True"  HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+            <TextBlock Text="이전/이후/데이터필터링" Grid.Row="3"/>
+            <Button Grid.Row="4" x:Name="btnPre" Content="이전" Click="EVENT_Move"/>
+            <Button Grid.Row="4" Grid.Column="1" x:Name="btnNext" Content="다음" Click="EVENT_Move"/>
+            <Button Grid.Row="4" Grid.Column="2" x:Name="btnFilter" Content="메니저" Click="EVENT_Filter"/>
+
+            <!--IsSynchronizedWithCurrentItem True의 연동되는 속성들-->
+            <TextBlock x:Name="tb_empno" Grid.Row="5" Text="{Binding Path=Empno}"/>
+            <TextBlock x:Name="tb_name" Grid.Row="5" Grid.Column="1" Text="{Binding Path=Name}"/>
+            <TextBlock x:Name="tb_job" Grid.Row="5" Grid.Column="2" Text="{Binding Path=Job}"/>
+
+        </Grid>
+    </StackPanel>
+</Window>
