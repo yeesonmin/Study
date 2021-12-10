@@ -9,18 +9,21 @@ using System.Threading.Tasks;
 
 namespace _01_MVVM_01.ViewModel
 {
-    class UserViewModel : ObservableCollection<UserModel>
+    class UserViewModel : ObservableCollection<UserModel> 
     {
-        RelayCommand AddUserCommand { get; set; }
+        public RelayCommand AddUserCommand { get; set; }
+        public string name { get; set; }
+        public int age { get; set; }
         public UserViewModel()
         {
-            Add(new UserModel() { Name = "이선민", Age = 24 });
+            Add(new UserModel() { Name = "홍길동", Age = 24 });
             AddUserCommand = new RelayCommand(AddUser);
         }
 
         private void AddUser(object obj)
         {
-            Add(new UserModel() { Name = obj.ToString(), Age = "new" });
+            UserViewModel user = obj as UserViewModel;
+            Add(new UserModel() { Name = user.name, Age = user.age });
         }
     }
 }

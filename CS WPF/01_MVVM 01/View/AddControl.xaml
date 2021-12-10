@@ -4,7 +4,12 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:_01_MVVM_01.View"
+             xmlns:vm="clr-namespace:_01_MVVM_01.ViewModel"
              mc:Ignorable="d" Height="100" Width="140">
+
+    <UserControl.DataContext>
+        <vm:UserViewModel/>
+    </UserControl.DataContext>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto"/>
@@ -19,9 +24,9 @@
         <TextBlock Text="성명" Margin="5"/>
         <TextBlock Text="나이" Grid.Row="1" Margin="5"/>
 
-        <TextBox Grid.Column="1" Margin="5"/>
-        <TextBox Grid.Column="1" Grid.Row="1" Margin="5"/>
+        <TextBox Grid.Column="1" Margin="5" Text="{Binding name}"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="5" Text="{Binding age}"/>
 
-        <Button Content="추가" Grid.Column="1" Grid.Row="2" Margin="5"/>
+        <Button Content="추가" Grid.Column="1" Grid.Row="2" Margin="5" Command="{Binding AddUserCommand}" CommandParameter="{Binding}"/>
     </Grid>
 </UserControl>
