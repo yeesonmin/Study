@@ -7,31 +7,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{49178FDB-E07
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS", "CS", "{DF8BF0D2-640B-4474-810C-41FD19A6DE11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Background Worker", "01_Background Worker\01_Background Worker.csproj", "{0372CBFC-F391-419A-82F5-A210D9515776}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Property_Trigger", "02_Property_Trigger\02_Property_Trigger.csproj", "{2F0DDEC8-41A4-47B5-A81A-14389C9A94C6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Data_Trigger", "03_Data_Trigger\03_Data_Trigger.csproj", "{CBD5768F-71E5-4976-B737-0FFD515E318E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Data_Binding", "04_Data_Binding\04_Data_Binding.csproj", "{FF04E115-E321-47C2-90B6-0991C4046923}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_의존프로퍼티(DependencyProperty)", "05_의존프로퍼티(DependencyProperty)\05_의존프로퍼티(DependencyProperty).csproj", "{A1D060C9-2FDA-4E9F-8702-7965C0715D8E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_RoutedEvent", "06_RoutedEvent\06_RoutedEvent.csproj", "{62CC519F-F98B-4B06-BBC9-17B8353909A8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DataBindling (xaml간)", "07_DataBindling (xaml간)\07_DataBindling (xaml간).csproj", "{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_INotyfyPropertChanged_PropertyChanged", "08_INotyfyPropertChanged_PropertyChanged\08_INotyfyPropertChanged_PropertyChanged.csproj", "{523E7E33-8847-401F-A5EA-42D6772853F3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command01", "09_Command01\09_Command01.csproj", "{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command02", "09_Command02\09_Command02.csproj", "{DCBED618-69A0-4270-80E0-66FF4056CF64}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ListCollectionView", "10_ListCollectionView\10_ListCollectionView.csproj", "{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF Review", "WPF Review", "{59229017-6E0B-4DB7-AA32-E02FE8C0E7A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MVVM 01", "01_MVVM 01\01_MVVM 01.csproj", "{102540F9-C037-4871-A716-0742B3C3B2F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MVVM 01", "WPF Review\01_MVVM 01\01_MVVM 01.csproj", "{102540F9-C037-4871-A716-0742B3C3B2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Background Worker", "WPF\01_Background Worker\01_Background Worker.csproj", "{0372CBFC-F391-419A-82F5-A210D9515776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Property_Trigger", "WPF\02_Property_Trigger\02_Property_Trigger.csproj", "{2F0DDEC8-41A4-47B5-A81A-14389C9A94C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Data_Trigger", "WPF\03_Data_Trigger\03_Data_Trigger.csproj", "{CBD5768F-71E5-4976-B737-0FFD515E318E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Data_Binding", "WPF\04_Data_Binding\04_Data_Binding.csproj", "{FF04E115-E321-47C2-90B6-0991C4046923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_의존프로퍼티(DependencyProperty)", "WPF\05_의존프로퍼티(DependencyProperty)\05_의존프로퍼티(DependencyProperty).csproj", "{A1D060C9-2FDA-4E9F-8702-7965C0715D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_RoutedEvent", "WPF\06_RoutedEvent\06_RoutedEvent.csproj", "{62CC519F-F98B-4B06-BBC9-17B8353909A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DataBindling (xaml간)", "WPF\07_DataBindling (xaml간)\07_DataBindling (xaml간).csproj", "{632A7391-5EFE-4A7F-8D4D-59BD7F8CFCC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_INotyfyPropertChanged_PropertyChanged", "WPF\08_INotyfyPropertChanged_PropertyChanged\08_INotyfyPropertChanged_PropertyChanged.csproj", "{523E7E33-8847-401F-A5EA-42D6772853F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command01", "WPF\09_Command01\09_Command01.csproj", "{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command02", "WPF\09_Command02\09_Command02.csproj", "{DCBED618-69A0-4270-80E0-66FF4056CF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ListCollectionView", "WPF\10_ListCollectionView\10_ListCollectionView.csproj", "{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +39,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102540F9-C037-4871-A716-0742B3C3B2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102540F9-C037-4871-A716-0742B3C3B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102540F9-C037-4871-A716-0742B3C3B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102540F9-C037-4871-A716-0742B3C3B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0372CBFC-F391-419A-82F5-A210D9515776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0372CBFC-F391-419A-82F5-A210D9515776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0372CBFC-F391-419A-82F5-A210D9515776}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -83,15 +87,12 @@ Global
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{102540F9-C037-4871-A716-0742B3C3B2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{102540F9-C037-4871-A716-0742B3C3B2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{102540F9-C037-4871-A716-0742B3C3B2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{102540F9-C037-4871-A716-0742B3C3B2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{102540F9-C037-4871-A716-0742B3C3B2F8} = {59229017-6E0B-4DB7-AA32-E02FE8C0E7A0}
 		{0372CBFC-F391-419A-82F5-A210D9515776} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{2F0DDEC8-41A4-47B5-A81A-14389C9A94C6} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{CBD5768F-71E5-4976-B737-0FFD515E318E} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
@@ -103,7 +104,6 @@ Global
 		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{DCBED618-69A0-4270-80E0-66FF4056CF64} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
-		{102540F9-C037-4871-A716-0742B3C3B2F8} = {59229017-6E0B-4DB7-AA32-E02FE8C0E7A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC65E998-4C8C-4269-B014-A261D0AAD2FF}
