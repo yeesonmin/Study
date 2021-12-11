@@ -57,6 +57,7 @@
     </ApplicationDefinition>
     <Compile Include="Command\RelayCommand.cs" />
     <Compile Include="Model\UserModel.cs" />
+    <Compile Include="Model\UserModelBase.cs" />
     <Compile Include="ViewModel\UserViewModel.cs" />
     <Compile Include="View\AddControl.xaml.cs">
       <DependentUpon>AddControl.xaml</DependentUpon>

@@ -5,19 +5,19 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:_01_MVVM_01.View"
              xmlns:userv="clr-namespace:_01_MVVM_01.ViewModel"
+             xmlns:md="clr-namespace:_01_MVVM_01.Model"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    
+
     <UserControl.Resources>
-        <userv:UserViewModel x:Key="user"/>
-        <DataTemplate x:Key="template">
+        <DataTemplate x:Key="template" DataType="{x:Type md:UserModel}">
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <TextBlock Grid.Column="0" Text="{Binding Path=Name}" HorizontalAlignment="Center"/>
-                <TextBlock Grid.Column="1" Text="{Binding Path=Age}" HorizontalAlignment="Center"/>
+                <TextBlock Grid.Column="0" Text="{Binding Name}" HorizontalAlignment="Center"/>
+                <TextBlock Grid.Column="1" Text="{Binding Age}" HorizontalAlignment="Center"/>
             </Grid>
         </DataTemplate>
     </UserControl.Resources>
@@ -33,6 +33,6 @@
         </Grid.RowDefinitions>
         <TextBlock Text="이름"  HorizontalAlignment="Center" Margin="5"/>
         <TextBlock Text="나이" Grid.Column="1" HorizontalAlignment="Center" Margin="5"/>
-        <ListBox Grid.Row="2" Grid.ColumnSpan="2" x:Name="lbx_emp" ItemsSource="{Binding Source={StaticResource user}}" ItemTemplate="{StaticResource template}" IsSynchronizedWithCurrentItem="True"  HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
+        <ListBox Grid.Row="2" Grid.ColumnSpan="2" x:Name="lbx_emp" ItemsSource="{Binding User}" ItemTemplate="{StaticResource template}" IsSynchronizedWithCurrentItem="True"  HorizontalContentAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled"/>
     </Grid>
 </UserControl>

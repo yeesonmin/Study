@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_01_MVVM_01"
         xmlns:controls="clr-namespace:_01_MVVM_01.View"
+        xmlns:user="clr-namespace:_01_MVVM_01.ViewModel"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
+    <Window.DataContext>
+        <user:UserViewModel/>
+    </Window.DataContext>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>

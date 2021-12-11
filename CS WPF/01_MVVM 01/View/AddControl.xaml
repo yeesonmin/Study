@@ -7,9 +7,6 @@
              xmlns:vm="clr-namespace:_01_MVVM_01.ViewModel"
              mc:Ignorable="d" Height="100" Width="140">
 
-    <UserControl.DataContext>
-        <vm:UserViewModel/>
-    </UserControl.DataContext>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto"/>

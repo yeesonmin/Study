@@ -7,7 +7,7 @@ using System.Windows.Input;
 
 namespace _01_MVVM_01.Command
 {
-    class RelayCommand : ICommand
+    public class RelayCommand : ICommand
     {
         Func<object, bool> canExecute;
         Action<object> executeAction;
