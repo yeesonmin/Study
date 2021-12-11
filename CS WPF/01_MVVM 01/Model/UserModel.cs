@@ -8,8 +8,12 @@ using System.Threading.Tasks;
 
 namespace _01_MVVM_01.Model
 {
-    public class UserModel : UserModelBase
+    public class UserModel
     {
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        
 
     }
 }

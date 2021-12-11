@@ -11,9 +11,18 @@ using System.Threading.Tasks;
 
 namespace _01_MVVM_01.ViewModel
 {
-    class UserViewModel : UserModelBase
+    class UserViewModel : INotifyPropertyChanged
     {
-        public ObservableCollection<UserModel> User { get; set; }
+        private ObservableCollection<UserModel> user;
+        public ObservableCollection<UserModel> User 
+        {
+            get { return user; }
+            set
+            {
+                user = value;
+                OnPropertyChanged();
+            }
+        }
 
         public RelayCommand AddUserCommand { get; set; }
         public string name { get; set; }
@@ -32,6 +41,15 @@ namespace _01_MVVM_01.ViewModel
         {
             UserViewModel u = obj as UserViewModel;
             User.Add(new UserModel() { Name = u.name, Age = u.age });
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+        private void OnPropertyChanged([CallerMemberName] string v = null)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(v));
+            }
         }
     }
 }

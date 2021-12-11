@@ -10,7 +10,7 @@
              d:DesignHeight="450" d:DesignWidth="800">
 
     <UserControl.Resources>
-        <DataTemplate x:Key="template" DataType="{x:Type md:UserModel}">
+        <DataTemplate x:Key="template">
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
