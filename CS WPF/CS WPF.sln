@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Command02", "WPF\09_Comm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ListCollectionView", "WPF\10_ListCollectionView\10_ListCollectionView.csproj", "{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MVVM_ControlSizeChange", "02_MVVM_ControlSizeChange\02_MVVM_ControlSizeChange.csproj", "{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{E4A1F1E1-4CA9-44EE-9396-797DBDB4CB84} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{DCBED618-69A0-4270-80E0-66FF4056CF64} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
 		{FC5B619F-FD2D-40FC-9FAE-5F47DF1572B0} = {49178FDB-E071-4096-AFD5-04C6CAEF1CCF}
+		{BDE7369E-CDB9-4FE1-8D37-E81EC83382D8} = {59229017-6E0B-4DB7-AA32-E02FE8C0E7A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC65E998-4C8C-4269-B014-A261D0AAD2FF}

@@ -1,0 +1,25 @@
+﻿<Window x:Class="_02_MVVM_ControlSizeChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02_MVVM_ControlSizeChange"
+        xmlns:v="clr-namespace:_02_MVVM_ControlSizeChange.View"
+        xmlns:vm="clr-namespace:_02_MVVM_ControlSizeChange.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="{Binding Size_height, Mode=TwoWay}" Width="{Binding Size_Width , Mode=TwoWay}">
+    <Window.DataContext>
+        <vm:ViewModel_Main/>
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <v:View_Main/>
+        <v:View_Sub Grid.Column="1" />
+    </Grid>
+
+   
+</Window>
