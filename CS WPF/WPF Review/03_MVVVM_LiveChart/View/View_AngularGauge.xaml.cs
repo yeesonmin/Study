@@ -24,5 +24,10 @@ namespace _03_MVVVM_LiveChart.View
         {
             InitializeComponent();
         }
+
+        private void ChangeValueOnClick(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

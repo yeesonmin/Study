@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\App.xaml
-4-1692565522
+14-1502239437
 
-11-1410294162
+31798276695
 17472988123
-MainWindow.xaml;View\View_ColumnSeries.xaml;View\View_Line.xaml;View\View_StackedColumns.xaml;
+MainWindow.xaml;View\View_AngularGauge.xaml;View\View_Bubbles.xaml;View\View_ColumnSeries.xaml;View\View_GeoMaps.xaml;View\View_Line.xaml;View\View_OpenHighLowCloseSeries.xaml;View\View_PieChart.xaml;View\View_Row.xaml;View\View_ScatterPlot.xaml;View\View_SolidGauge.xaml;View\View_StackedArea.xaml;View\View_StackedColumns.xaml;View\View_StepLine.xaml;
 
-False
+True
 

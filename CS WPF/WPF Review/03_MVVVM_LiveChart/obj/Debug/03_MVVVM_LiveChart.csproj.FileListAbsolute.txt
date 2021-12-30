@@ -27,3 +27,13 @@ C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\03_M
 C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\03_MVVVM_LiveChart.pdb
 C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_StackedColumns.g.cs
 C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_StackedColumns.baml
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_AngularGauge.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_Bubbles.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_GeoMaps.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_OpenHighLowCloseSeries.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_PieChart.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_Row.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_ScatterPlot.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_SolidGauge.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_StackedArea.g.cs
+C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\03_MVVVM_LiveChart\obj\Debug\View\View_StepLine.g.cs
