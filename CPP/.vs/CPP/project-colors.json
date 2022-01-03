@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02d38b66-c0d5-4f72-8637-8b9c4ad2d200": {
+      "ProjectGuid": "02d38b66-c0d5-4f72-8637-8b9c4ad2d200",
+      "DisplayName": "00_키 입력 및 출력",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
