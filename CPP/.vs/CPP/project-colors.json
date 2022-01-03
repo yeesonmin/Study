@@ -5,7 +5,12 @@
       "ProjectGuid": "02d38b66-c0d5-4f72-8637-8b9c4ad2d200",
       "DisplayName": "00_키 입력 및 출력",
       "ColorIndex": 0
+    },
+    "952f609e-0c64-4a25-8a64-652de1d8c268": {
+      "ProjectGuid": "952f609e-0c64-4a25-8a64-652de1d8c268",
+      "DisplayName": "01_클래스와 객체",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
