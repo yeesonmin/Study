@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(02_객체 포인터.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스.cpp
+C:\Users\yeeso\Desktop\Study\CPP\01_클래스와 객체\소스.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\yeeso\Desktop\Study\CPP\01_클래스와 객체\소스.cpp(69,42): error C2100: 간접 참조가 잘못되었습니다.
+C:\Users\yeeso\Desktop\Study\CPP\01_클래스와 객체\소스.cpp(69,39): error C2088: '<<': class에 맞지 않습니다.
