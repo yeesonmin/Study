@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_키 입력 및 출력", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_클래스와 객체", "01_클래스와 객체\01_클래스와 객체.vcxproj", "{952F609E-0C64-4A25-8A64-652DE1D8C268}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_객체 포인터", "02_객체 포인터\02_객체 포인터.vcxproj", "{8B70E16F-8FA6-4542-A924-B39CC9689779}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_객체 포인터 및 객체 배열", "02_객체 포인터\02_객체 포인터.vcxproj", "{8B70E16F-8FA6-4542-A924-B39CC9689779}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_동적 메모리", "03_동적 메모리\03_동적 메모리.vcxproj", "{12C9803E-E299-48AB-9E8E-6AEE9FE66574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{8B70E16F-8FA6-4542-A924-B39CC9689779}.Release|x64.Build.0 = Release|x64
 		{8B70E16F-8FA6-4542-A924-B39CC9689779}.Release|x86.ActiveCfg = Release|Win32
 		{8B70E16F-8FA6-4542-A924-B39CC9689779}.Release|x86.Build.0 = Release|Win32
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Debug|x64.ActiveCfg = Debug|x64
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Debug|x64.Build.0 = Debug|x64
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Debug|x86.ActiveCfg = Debug|Win32
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Debug|x86.Build.0 = Debug|Win32
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Release|x64.ActiveCfg = Release|x64
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Release|x64.Build.0 = Release|x64
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Release|x86.ActiveCfg = Release|Win32
+		{12C9803E-E299-48AB-9E8E-6AEE9FE66574}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

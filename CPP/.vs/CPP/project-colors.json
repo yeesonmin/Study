@@ -15,7 +15,12 @@
       "ProjectGuid": "8b70e16f-8fa6-4542-a924-b39cc9689779",
       "DisplayName": "02_객체 포인터",
       "ColorIndex": 2
+    },
+    "12c9803e-e299-48ab-9e8e-6aee9fe66574": {
+      "ProjectGuid": "12c9803e-e299-48ab-9e8e-6aee9fe66574",
+      "DisplayName": "03_동적 메모리",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
