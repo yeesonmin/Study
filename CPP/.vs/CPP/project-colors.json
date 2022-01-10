@@ -20,7 +20,12 @@
       "ProjectGuid": "12c9803e-e299-48ab-9e8e-6aee9fe66574",
       "DisplayName": "03_동적 메모리",
       "ColorIndex": 3
+    },
+    "400d6899-6a80-4501-b3ee-10a0dabf46f5": {
+      "ProjectGuid": "400d6899-6a80-4501-b3ee-10a0dabf46f5",
+      "DisplayName": "04_string 클래스",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
