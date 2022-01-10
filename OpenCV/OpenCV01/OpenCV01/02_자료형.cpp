@@ -77,7 +77,83 @@ int main()
 	cout << str3 << endl;
 	cout << str4 << endl;
 
+	//Mat
+	Mat img1(480, 640, CV_8UC1);//그레이
+	Mat img2(480, 640, CV_8UC3);//트루컬러
+	Mat img3(Size(480, 640), CV_8UC3);
+	Mat img4(Size(480, 640), CV_8UC1,Scalar(128));//모든 픽셀 값 128
+	Mat img5(Size(480, 640), CV_8UC3, Scalar(0,0, 128));//빨강 픽셀 값 128
+	Mat mat1 = Mat::zeros(3, 3, CV_32SC1);
+	// 000
+	// 000
+	// 000
 
+	Mat mat2 = Mat::ones(3, 3, CV_32SC1);
+	// 111
+	// 111
+	// 111
 
+	Mat mat3 = Mat::eye(3, 3, CV_32SC1);
+	// 100
+	// 010
+	// 001
 
+	float data[] = { 1,2,3,4,5,6, };
+	Mat mat4(2, 3, CV_32SC1, data);
+	
+	Mat_<float> mat5_(2, 3);
+	mat5_ << 1, 2, 3, 4, 5, 6;
+	Mat mat5 = mat5_;// 한 줄 코드 Mat mat5 = (Mat_<float>(2, 3) << 1, 2, 3, 4, 5, 6);
+	Mat mat6 = Mat_<float>({ 2,3 }, { 1,2,3,4,5,6 });
+	// 1 2 3
+	// 4 5 6
+
+	mat4.create(256, 256, CV_8UC3);//Mat 새로 만들기
+
+	//setTo
+	mat5.setTo(1.f);// 모든 원소값을 일괄적으로 설정
+	
+	//Mat 복사
+	Mat img1 = imread("dog.bmp");
+	Mat img2 = img1; //앝은 복사 => 하나 영상 공유
+	Mat img3 = img1.clone(); // 깊은 복사 = > 각각 변수에 영상 복사 
+
+	//Mat 부분 행렬 추출
+	Mat img4 = imread("cat.bmp");
+	Mat img5 = img4(Rect(220, 120, 340, 240));//(220,120) 부터 (340, 240)까지 추출(얕은 복사)
+	Mat img6 = img4(Rect(220, 120, 340, 240)).clone();//(220,120) 부터 (340, 240)까지 추출(깊은 복사)
+
+	//at 행렬 원소값 참조
+	Mat atmat = Mat::zeros(3, 4, CV_8UC1);
+	for (int i = 0; i < atmat.rows; i++)
+	{
+		for (int j = 0; j < atmat.cols; j++)
+		{
+			atmat.at<uchar>(j, i)++;//각각의 원소값을 1씩 증가
+		}
+	}
+
+	//ptr 행렬의 특정 행 주소 반환
+	for (int i = 0; i < atmat.rows; i++)
+	{
+		uchar* pmat = mat1.ptr<uchar>(i);
+		for (int j = 0; j < atmat.cols; j++)
+		{
+			pmat[j]++;//각각의 원소값을 1씩 증가
+		}
+	}
+
+	//at, ptr 크기 초과 방지 MatIterator_ 단, 속도가 느림
+	for (MatIterator_<uchar> it = atmat.begin<uchar>(); it != atmat.end<uchar>(); ++it)
+	{
+		(*it)++;
+	}
+
+	//타입 변환
+	Mat img7 = imread("lenna.bmp", IMREAD_GRAYSCALE);
+	Mat img8;
+	img7.convertTo(img8, CV_32FC1);
+
+	//resize 행크기 변환
+	mat1.resize(5, 100);//값이 없는 값은 100으로 반환
 }
