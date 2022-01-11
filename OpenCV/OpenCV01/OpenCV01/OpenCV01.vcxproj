@@ -151,6 +151,7 @@
     <ClCompile Include="04_그리기.cpp" />
     <ClCompile Include="05_이벤트 처리.cpp" />
     <ClCompile Include="06_데이터 입출력.cpp" />
+    <ClCompile Include="07_유용한 기능%28마스크, 처리시간, 수학연산%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
