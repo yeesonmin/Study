@@ -25,7 +25,22 @@
       "ProjectGuid": "400d6899-6a80-4501-b3ee-10a0dabf46f5",
       "DisplayName": "04_string 클래스",
       "ColorIndex": 4
+    },
+    "a3b5a843-f824-490f-8bc7-a4136c02eefd": {
+      "ProjectGuid": "a3b5a843-f824-490f-8bc7-a4136c02eefd",
+      "DisplayName": "05_참조",
+      "ColorIndex": 5
+    },
+    "25c9e008-2d55-40cb-82a8-65f31676533e": {
+      "ProjectGuid": "25c9e008-2d55-40cb-82a8-65f31676533e",
+      "DisplayName": "06_복사 생성자",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
