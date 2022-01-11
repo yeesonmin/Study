@@ -156,4 +156,12 @@ int main()
 
 	//resize 행크기 변환
 	mat1.resize(5, 100);//값이 없는 값은 100으로 반환
+
+	//Vec
+	Vec<uchar, 3> vec1, vec2(0, 0, 255);
+	Vec3d vec3, vec4(0, 0, 255);// = vec1, vec2
+
+	//Scalar
+	Scalar yellow(0, 255, 255);
+	Mat imgs1(256, 256, CV_8UC3, yellow);
 }
