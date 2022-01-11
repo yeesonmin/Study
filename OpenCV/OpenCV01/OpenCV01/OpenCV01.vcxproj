@@ -147,6 +147,8 @@
   <ItemGroup>
     <ClCompile Include="01_HelloCV.cpp" />
     <ClCompile Include="02_자료형.cpp" />
+    <ClCompile Include="03_VideoCapture.cpp" />
+    <ClCompile Include="04_그리기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
