@@ -27,5 +27,8 @@
     <ClCompile Include="04_그리기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="05_이벤트 처리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
