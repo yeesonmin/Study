@@ -55,7 +55,12 @@
       "ProjectGuid": "72468361-44bc-42e7-a7ed-e3adc5c0ddba",
       "DisplayName": "08_static",
       "ColorIndex": 9
+    },
+    "ff2ce010-5be8-4bfa-8ef7-33e2d770ff5b": {
+      "ProjectGuid": "ff2ce010-5be8-4bfa-8ef7-33e2d770ff5b",
+      "DisplayName": "09_Friend 및 연산자 중복",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }
