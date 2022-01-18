@@ -60,7 +60,12 @@
       "ProjectGuid": "ff2ce010-5be8-4bfa-8ef7-33e2d770ff5b",
       "DisplayName": "09_Friend 및 연산자 중복",
       "ColorIndex": 10
+    },
+    "14c743cb-d0e4-41d0-8287-99a4762d1543": {
+      "ProjectGuid": "14c743cb-d0e4-41d0-8287-99a4762d1543",
+      "DisplayName": "10_상속",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

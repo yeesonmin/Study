@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_static", "08_static\08_s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Friend 및 연산자 중복", "09_Friend 및 연산자 중복\09_Friend 및 연산자 중복.vcxproj", "{FF2CE010-5BE8-4BFA-8EF7-33E2D770FF5B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_상속", "10_상속\10_상속.vcxproj", "{14C743CB-D0E4-41D0-8287-99A4762D1543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{FF2CE010-5BE8-4BFA-8EF7-33E2D770FF5B}.Release|x64.Build.0 = Release|x64
 		{FF2CE010-5BE8-4BFA-8EF7-33E2D770FF5B}.Release|x86.ActiveCfg = Release|Win32
 		{FF2CE010-5BE8-4BFA-8EF7-33E2D770FF5B}.Release|x86.Build.0 = Release|Win32
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Debug|x64.ActiveCfg = Debug|x64
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Debug|x64.Build.0 = Debug|x64
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Debug|x86.ActiveCfg = Debug|Win32
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Debug|x86.Build.0 = Debug|Win32
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Release|x64.ActiveCfg = Release|x64
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Release|x64.Build.0 = Release|x64
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Release|x86.ActiveCfg = Release|Win32
+		{14C743CB-D0E4-41D0-8287-99A4762D1543}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
