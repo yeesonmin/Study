@@ -155,6 +155,7 @@
     <ClCompile Include="08_영상 밝기 조절.cpp" />
     <ClCompile Include="09_명암조절.cpp" />
     <ClCompile Include="10_히스토그램.cpp" />
+    <ClCompile Include="11_연산.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
