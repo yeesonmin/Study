@@ -65,7 +65,27 @@
       "ProjectGuid": "14c743cb-d0e4-41d0-8287-99a4762d1543",
       "DisplayName": "10_상속",
       "ColorIndex": 11
+    },
+    "773b5b6d-4a80-4571-84b2-ead8caa755f3": {
+      "ProjectGuid": "773b5b6d-4a80-4571-84b2-ead8caa755f3",
+      "DisplayName": "11_함수 재정의",
+      "ColorIndex": 12
+    },
+    "e3e01faa-a8b7-42ba-b285-9927fed25045": {
+      "ProjectGuid": "e3e01faa-a8b7-42ba-b285-9927fed25045",
+      "DisplayName": "12_함수 오버라이딩",
+      "ColorIndex": 13
+    },
+    "04b7c857-c21f-4a85-a279-f42b1ab9a157": {
+      "ProjectGuid": "04b7c857-c21f-4a85-a279-f42b1ab9a157",
+      "DisplayName": "11_함수 오버라이딩",
+      "ColorIndex": 14
+    },
+    "3c0d2e4b-a829-4e02-a1fe-ca21168ff11a": {
+      "ProjectGuid": "3c0d2e4b-a829-4e02-a1fe-ca21168ff11a",
+      "DisplayName": "12_추상클래스",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 0
 }
