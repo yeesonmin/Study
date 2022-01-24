@@ -85,7 +85,17 @@
       "ProjectGuid": "3c0d2e4b-a829-4e02-a1fe-ca21168ff11a",
       "DisplayName": "12_추상클래스",
       "ColorIndex": 15
+    },
+    "eb10895f-230a-4e16-b224-60cd61826d11": {
+      "ProjectGuid": "eb10895f-230a-4e16-b224-60cd61826d11",
+      "DisplayName": "13_템플릿",
+      "ColorIndex": 0
+    },
+    "2c1238b7-102a-41bb-b683-e05387fd6314": {
+      "ProjectGuid": "2c1238b7-102a-41bb-b683-e05387fd6314",
+      "DisplayName": "14_STL 표준라이브러리",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 2
 }
