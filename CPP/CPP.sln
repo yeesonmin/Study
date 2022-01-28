@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_템플릿", "13_템플�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_STL 표준라이브러리", "14_STL 표준라이브러리\14_STL 표준라이브러리.vcxproj", "{2C1238B7-102A-41BB-B683-E05387FD6314}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_파일 입출력", "15_파일 입출력\15_파일 입출력.vcxproj", "{EC252BCC-6E82-4BD1-B824-BBC42960D063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{2C1238B7-102A-41BB-B683-E05387FD6314}.Release|x64.Build.0 = Release|x64
 		{2C1238B7-102A-41BB-B683-E05387FD6314}.Release|x86.ActiveCfg = Release|Win32
 		{2C1238B7-102A-41BB-B683-E05387FD6314}.Release|x86.Build.0 = Release|Win32
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Debug|x64.ActiveCfg = Debug|x64
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Debug|x64.Build.0 = Debug|x64
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Debug|x86.Build.0 = Debug|Win32
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x64.ActiveCfg = Release|x64
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x64.Build.0 = Release|x64
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x86.ActiveCfg = Release|Win32
+		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

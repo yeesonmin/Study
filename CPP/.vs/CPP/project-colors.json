@@ -95,7 +95,12 @@
       "ProjectGuid": "2c1238b7-102a-41bb-b683-e05387fd6314",
       "DisplayName": "14_STL 표준라이브러리",
       "ColorIndex": 1
+    },
+    "ec252bcc-6e82-4bd1-b824-bbc42960d063": {
+      "ProjectGuid": "ec252bcc-6e82-4bd1-b824-bbc42960d063",
+      "DisplayName": "15_파일 입출력",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
