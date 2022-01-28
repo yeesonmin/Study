@@ -100,7 +100,12 @@
       "ProjectGuid": "ec252bcc-6e82-4bd1-b824-bbc42960d063",
       "DisplayName": "15_파일 입출력",
       "ColorIndex": 2
+    },
+    "389b2a88-1317-4006-a3db-5da1ddfa24db": {
+      "ProjectGuid": "389b2a88-1317-4006-a3db-5da1ddfa24db",
+      "DisplayName": "16_예외처리",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

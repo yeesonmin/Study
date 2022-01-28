@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14_STL 표준라이브러�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15_파일 입출력", "15_파일 입출력\15_파일 입출력.vcxproj", "{EC252BCC-6E82-4BD1-B824-BBC42960D063}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16_예외처리", "16_예외처리\16_예외처리.vcxproj", "{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x64.Build.0 = Release|x64
 		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x86.ActiveCfg = Release|Win32
 		{EC252BCC-6E82-4BD1-B824-BBC42960D063}.Release|x86.Build.0 = Release|Win32
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Debug|x64.ActiveCfg = Debug|x64
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Debug|x64.Build.0 = Debug|x64
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Debug|x86.Build.0 = Debug|Win32
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Release|x64.ActiveCfg = Release|x64
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Release|x64.Build.0 = Release|x64
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Release|x86.ActiveCfg = Release|Win32
+		{389B2A88-1317-4006-A3DB-5DA1DDFA24DB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
