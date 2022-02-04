@@ -158,6 +158,7 @@
     <ClCompile Include="11_연산.cpp" />
     <ClCompile Include="12_필터링.cpp" />
     <ClCompile Include="13_기하학적 변환.cpp" />
+    <ClCompile Include="14_에지 검출.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
