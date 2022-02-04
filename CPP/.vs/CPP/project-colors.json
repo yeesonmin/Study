@@ -105,7 +105,12 @@
       "ProjectGuid": "389b2a88-1317-4006-a3db-5da1ddfa24db",
       "DisplayName": "16_예외처리",
       "ColorIndex": 3
+    },
+    "329be1de-4f10-4640-b853-07ca33dec117": {
+      "ProjectGuid": "329be1de-4f10-4640-b853-07ca33dec117",
+      "DisplayName": "100_가상함수와 오버라이딩 활용",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
