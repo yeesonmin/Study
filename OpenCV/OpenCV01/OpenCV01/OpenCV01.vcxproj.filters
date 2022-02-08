@@ -60,5 +60,11 @@
     <ClCompile Include="15_컬러 처리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16_이진화.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17_모폴로지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
