@@ -1,6 +1,0 @@
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\04_MVVM_GMAP.csproj.AssemblyReference.cache
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\MainWindow.g.cs
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\View\GMAP.g.cs
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\App.g.cs
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\04_MVVM_GMAP_MarkupCompile.cache
-C:\Users\yeeso\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\Debug\04_MVVM_GMAP_MarkupCompile.lref

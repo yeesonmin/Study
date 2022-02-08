@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e01c790-4ea9-4253-81a9-ec3a6e63de76": {
+      "ProjectGuid": "7e01c790-4ea9-4253-81a9-ec3a6e63de76",
+      "DisplayName": "시간 차이 TimeSpan",
+      "ColorIndex": 0
+    },
+    "68a83206-e870-43f3-a082-195f1724d701": {
+      "ProjectGuid": "68a83206-e870-43f3-a082-195f1724d701",
+      "DisplayName": "열거형 enum",
+      "ColorIndex": 1
+    },
+    "8ef90942-80db-4e86-8d28-acf35d37feb5": {
+      "ProjectGuid": "8ef90942-80db-4e86-8d28-acf35d37feb5",
+      "DisplayName": "랜덤",
+      "ColorIndex": 2
+    },
+    "be4bfaa9-d8d3-4efb-8524-cd36c1da38e1": {
+      "ProjectGuid": "be4bfaa9-d8d3-4efb-8524-cd36c1da38e1",
+      "DisplayName": "실행시간 Stopwatch",
+      "ColorIndex": 3
+    },
+    "5ca749f9-698c-48f0-94c4-fe5976906861": {
+      "ProjectGuid": "5ca749f9-698c-48f0-94c4-fe5976906861",
+      "DisplayName": "특정 패턴 검사 정규식 Regex",
+      "ColorIndex": 4
+    },
+    "15de8d5c-1429-4727-a833-bf9160a3589a": {
+      "ProjectGuid": "15de8d5c-1429-4727-a833-bf9160a3589a",
+      "DisplayName": "형식 비교 is",
+      "ColorIndex": 5
+    },
+    "d2c96856-9354-4e48-94eb-8d5d2329db55": {
+      "ProjectGuid": "d2c96856-9354-4e48-94eb-8d5d2329db55",
+      "DisplayName": "형식변환 as",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
