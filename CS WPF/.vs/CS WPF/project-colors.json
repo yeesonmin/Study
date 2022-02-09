@@ -35,7 +35,17 @@
       "ProjectGuid": "d2c96856-9354-4e48-94eb-8d5d2329db55",
       "DisplayName": "형식변환 as",
       "ColorIndex": 6
+    },
+    "de795ae4-b7a1-4b05-b179-9097151a5ac8": {
+      "ProjectGuid": "de795ae4-b7a1-4b05-b179-9097151a5ac8",
+      "DisplayName": "Dictionary",
+      "ColorIndex": 7
+    },
+    "fdaa9948-66af-4c77-a5f1-89b01ab6077c": {
+      "ProjectGuid": "fdaa9948-66af-4c77-a5f1-89b01ab6077c",
+      "DisplayName": "LINQ",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
