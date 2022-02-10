@@ -66,5 +66,14 @@
     <ClCompile Include="17_모폴로지.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18_레이블링.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19_외곽선 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20_외곽선 처리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

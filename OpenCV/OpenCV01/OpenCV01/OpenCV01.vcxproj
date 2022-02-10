@@ -162,6 +162,9 @@
     <ClCompile Include="15_컬러 처리.cpp" />
     <ClCompile Include="16_이진화.cpp" />
     <ClCompile Include="17_모폴로지.cpp" />
+    <ClCompile Include="18_레이블링.cpp" />
+    <ClCompile Include="19_외곽선 검출.cpp" />
+    <ClCompile Include="20_외곽선 처리.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
