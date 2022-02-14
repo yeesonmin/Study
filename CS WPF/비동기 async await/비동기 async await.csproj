@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2C96856-9354-4E48-94EB-8D5D2329DB55}</ProjectGuid>
+    <ProjectGuid>{5D4C1F4B-7690-4923-8537-D66134D3930F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>형식변환_as</RootNamespace>
-    <AssemblyName>형식변환 as</AssemblyName>
+    <RootNamespace>비동기_async_await</RootNamespace>
+    <AssemblyName>비동기 async await</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bacon.cs" />
+    <Compile Include="Coffee.cs" />
+    <Compile Include="Egg.cs" />
+    <Compile Include="Juice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Toast.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

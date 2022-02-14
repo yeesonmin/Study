@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2C96856-9354-4E48-94EB-8D5D2329DB55}</ProjectGuid>
+    <ProjectGuid>{FEF8ECF0-D786-4504-B6C7-40B571AC7B9B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>형식변환_as</RootNamespace>
-    <AssemblyName>형식변환 as</AssemblyName>
+    <RootNamespace>XML</RootNamespace>
+    <AssemblyName>XML</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

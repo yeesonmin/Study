@@ -45,7 +45,42 @@
       "ProjectGuid": "fdaa9948-66af-4c77-a5f1-89b01ab6077c",
       "DisplayName": "LINQ",
       "ColorIndex": 8
+    },
+    "102540f9-c037-4871-a716-0742b3c3b2f8": {
+      "ProjectGuid": "102540f9-c037-4871-a716-0742b3c3b2f8",
+      "DisplayName": "01_MVVM 01",
+      "ColorIndex": 9
+    },
+    "36d640ba-b943-43ff-a8c8-e3abd933224b": {
+      "ProjectGuid": "36d640ba-b943-43ff-a8c8-e3abd933224b",
+      "DisplayName": "병렬처리",
+      "ColorIndex": 10
+    },
+    "5d4c1f4b-7690-4923-8537-d66134d3930f": {
+      "ProjectGuid": "5d4c1f4b-7690-4923-8537-d66134d3930f",
+      "DisplayName": "비동기 async await",
+      "ColorIndex": 11
+    },
+    "fef8ecf0-d786-4504-b6c7-40b571ac7b9b": {
+      "ProjectGuid": "fef8ecf0-d786-4504-b6c7-40b571ac7b9b",
+      "DisplayName": "XML",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "6fc7d10e-d25d-4c5f-8b13-7a5d1b2f3e40": {
+      "ProjectGuid": "6fc7d10e-d25d-4c5f-8b13-7a5d1b2f3e40",
+      "DisplayName": "JSON",
+      "ColorIndex": 13
+    },
+    "df8bf0d2-640b-4474-810c-41fd19a6de11": {
+      "ProjectGuid": "df8bf0d2-640b-4474-810c-41fd19a6de11",
+      "DisplayName": "CS",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 15
 }
