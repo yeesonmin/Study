@@ -75,5 +75,14 @@
     <ClCompile Include="20_외곽선 처리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21_템플릿 매칭.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22_Cascade 캐스케이드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23_hog 보행자 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
