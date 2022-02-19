@@ -1,0 +1,66 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.3/msvc2019_64/bin/qmake)
+  moc DateTimeUI.h
+  DateTimeUI.cpp
+  TimeUI.cpp
+  main.cpp
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x82 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x83 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x85 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x88 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x89 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2ab 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2ac 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2ae 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2b6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x91 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2b7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x94 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2c8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x98 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2cd 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x9b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2cf 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\TimeUI.cpp(1,1): warning C4828: 파일에 0x2d0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0x9e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xa1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xa3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xa6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xb6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xb7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xb8 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xb9 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xbd 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\CheckBox.h(1,1): warning C4828: 파일에 0xbe 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x82 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x83 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x85 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x88 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x89 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x91 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x94 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x98 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x9b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 main.cpp)
+  moc_TimeUI.cpp
+  moc_DateTimeUI.cpp
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x82 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x83 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x85 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x88 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x89 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8a 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x8f 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x91 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x94 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x98 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\QTWidgets\DateTimeUI.h(1,1): warning C4828: 파일에 0x9b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001). (소스 파일 컴파일 중 x64\Debug\moc\moc_DateTimeUI.cpp)
+  QTWidgets.vcxproj -> C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Widgets\QTWidgets\x64\Debug\QTWidgets.exe
