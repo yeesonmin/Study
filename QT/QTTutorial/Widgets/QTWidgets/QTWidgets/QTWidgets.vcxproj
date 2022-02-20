@@ -86,7 +86,23 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DateTimeUI.cpp" />
+    <ClCompile Include="DialUI.cpp" />
+    <ClCompile Include="Label_LCDNumberUI.cpp" />
+    <ClCompile Include="LineEditUI.cpp" />
+    <ClCompile Include="MenuUi.cpp" />
+    <ClCompile Include="ProgressbarUI.cpp" />
+    <ClCompile Include="PushButtonUI.cpp" />
+    <ClCompile Include="RadioButtonUI.cpp" />
+    <ClCompile Include="ScrollAreaUI.cpp" />
+    <ClCompile Include="SizeGripUI.cpp" />
+    <ClCompile Include="SliderUI.cpp" />
+    <ClCompile Include="SpinBoxUI.cpp" />
+    <ClCompile Include="TabwidgetUI.cpp" />
     <ClCompile Include="TimeUI.cpp" />
+    <ClCompile Include="ToolBarUI.cpp" />
+    <ClCompile Include="ToolBoxUI.cpp" />
+    <ClCompile Include="ToolButton.cpp" />
+    <ClCompile Include="WidgetUI.cpp" />
     <QtRcc Include="QTWidgets.qrc" />
     <QtRcc Include="resources.qrc" />
     <QtUic Include="QTWidgets.ui" />
@@ -113,6 +129,54 @@
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="DateTimeUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="DialUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="SpinBoxUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="PushButtonUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Label_LCDNumberUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="LineEditUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="MenuUi.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="ProgressbarUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="RadioButtonUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="ScrollAreaUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="SizeGripUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="SliderUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="TabwidgetUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="ToolBarUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="WidgetUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="ToolBoxUI.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="ToolButton.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

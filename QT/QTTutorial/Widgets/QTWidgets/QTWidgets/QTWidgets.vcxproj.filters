@@ -61,6 +61,54 @@
     <ClCompile Include="DateTimeUI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DialUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpinBoxUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PushButtonUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Label_LCDNumberUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineEditUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuUi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressbarUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioButtonUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollAreaUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SizeGripUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SliderUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TabwidgetUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolBarUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolBoxUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="CheckBox.h">
@@ -79,6 +127,54 @@
       <Filter>Header Files</Filter>
     </QtMoc>
     <QtMoc Include="DateTimeUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DialUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SpinBoxUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="PushButtonUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Label_LCDNumberUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="LineEditUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MenuUi.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ProgressbarUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="RadioButtonUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ScrollAreaUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SizeGripUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="SliderUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="TabwidgetUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ToolBarUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ToolBoxUI.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ToolButton.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>

@@ -6,5 +6,6 @@
         <file>resources/editor.png</file>
         <file>resources/mail.png</file>
         <file>resources/users.png</file>
+        <file>resources/fish.png</file>
     </qresource>
 </RCC>
