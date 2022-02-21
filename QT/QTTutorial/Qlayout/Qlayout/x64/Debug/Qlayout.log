@@ -1,0 +1,25 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.3/msvc2019_64/bin/qmake)
+  Qlayout.cpp
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x76 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x77 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x78 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x79 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x7b 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x7c 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x80 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x81 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x82 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x87 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1b1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1b2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1b3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1b6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1ba 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1bb 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1bc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x1c1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x2e2 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x2e5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x2e6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\Qlayout\Qlayout.cpp(1,1): warning C4828: 파일에 0x2e7 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  Qlayout.vcxproj -> C:\Users\yeeso\Desktop\Study\QT\QTTutorial\Qlayout\x64\Debug\Qlayout.exe
