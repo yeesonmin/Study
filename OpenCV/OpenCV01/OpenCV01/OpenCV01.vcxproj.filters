@@ -90,5 +90,8 @@
     <ClCompile Include="25_코너검출(해리스, Fast).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="26_키포인트 검출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -170,6 +170,7 @@
     <ClCompile Include="23_hog 보행자 검출.cpp" />
     <ClCompile Include="24_QR 코드.cpp" />
     <ClCompile Include="25_코너검출(해리스, Fast).cpp" />
+    <ClCompile Include="26_키포인트 검출.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
