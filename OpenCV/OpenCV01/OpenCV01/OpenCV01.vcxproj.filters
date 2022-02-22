@@ -93,5 +93,8 @@
     <ClCompile Include="26_키포인트 검출.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="27_파노라마 ctitcher.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
