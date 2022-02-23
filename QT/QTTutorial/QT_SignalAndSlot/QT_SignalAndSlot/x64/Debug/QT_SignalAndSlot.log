@@ -1,0 +1,15 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.3/msvc2019_64/bin/qmake)
+  Test2.cpp
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x259 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x25e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x268 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x26d 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2be 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2bf 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c0 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c1 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c3 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c4 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c5 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\QT_SignalAndSlot\Test2.cpp(1,1): warning C4828: 파일에 0x2c6 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 65001).
+  QT_SignalAndSlot.vcxproj -> C:\Users\yeeso\Desktop\Study\QT\QTTutorial\QT_SignalAndSlot\x64\Debug\QT_SignalAndSlot.exe
