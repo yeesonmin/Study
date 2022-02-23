@@ -96,5 +96,8 @@
     <ClCompile Include="27_파노라마 ctitcher.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="28_kNN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
