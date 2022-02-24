@@ -173,6 +173,7 @@
     <ClCompile Include="26_키포인트 검출.cpp" />
     <ClCompile Include="27_파노라마 ctitcher.cpp" />
     <ClCompile Include="28_kNN.cpp" />
+    <ClCompile Include="29_kNN_cursive.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

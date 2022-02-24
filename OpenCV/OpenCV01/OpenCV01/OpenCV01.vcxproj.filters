@@ -99,5 +99,8 @@
     <ClCompile Include="28_kNN.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="29_kNN_cursive.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
