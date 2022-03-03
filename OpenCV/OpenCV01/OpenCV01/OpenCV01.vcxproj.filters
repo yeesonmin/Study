@@ -102,5 +102,11 @@
     <ClCompile Include="29_kNN_cursive.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="30_SVN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="31_SVM_cursive.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
