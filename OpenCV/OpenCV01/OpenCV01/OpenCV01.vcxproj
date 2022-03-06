@@ -176,7 +176,9 @@
     <ClCompile Include="29_kNN_cursive.cpp" />
     <ClCompile Include="30_DNN_cursive.cpp" />
     <ClCompile Include="30_SVN.cpp" />
+    <ClCompile Include="31_DNN_영상 분류.cpp" />
     <ClCompile Include="31_SVM_cursive.cpp" />
+    <ClCompile Include="32_DNN_SDD_FaceDetect.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
