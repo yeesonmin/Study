@@ -1,0 +1,17 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\bin\x64\Debug\09_Command.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\bin\x64\Debug\09_Command.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\bin\x64\Debug\09_Command.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command02.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command02.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\_09_Command.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command02.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command02.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\09_Command02\obj\x64\Debug\09_Command.pdb

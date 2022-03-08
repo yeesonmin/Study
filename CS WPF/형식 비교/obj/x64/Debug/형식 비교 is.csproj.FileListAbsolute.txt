@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\bin\x64\Debug\형식 비교.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\bin\x64\Debug\형식 비교.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\bin\x64\Debug\형식 비교.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\obj\x64\Debug\형식 비교 is.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\obj\x64\Debug\형식 비교 is.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\obj\x64\Debug\형식 비교 is.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\obj\x64\Debug\형식 비교.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\형식 비교\obj\x64\Debug\형식 비교.pdb

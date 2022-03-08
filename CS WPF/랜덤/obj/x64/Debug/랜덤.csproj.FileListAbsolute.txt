@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\bin\x64\Debug\랜덤.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\bin\x64\Debug\랜덤.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\bin\x64\Debug\랜덤.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\obj\x64\Debug\랜덤.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\obj\x64\Debug\랜덤.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\obj\x64\Debug\랜덤.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\obj\x64\Debug\랜덤.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\랜덤\obj\x64\Debug\랜덤.pdb

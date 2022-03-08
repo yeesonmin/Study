@@ -1,0 +1,16 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\bin\x64\Debug\07_DataBindling (xaml간).exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\bin\x64\Debug\07_DataBindling (xaml간).exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\bin\x64\Debug\07_DataBindling (xaml간).pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간)_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간)_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\_07_DataBindling__xaml간_.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\07_DataBindling (xaml간)\obj\x64\Debug\07_DataBindling (xaml간).pdb

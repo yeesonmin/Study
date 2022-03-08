@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\bin\x64\Debug\특정 패턴 검사 정규식.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\bin\x64\Debug\특정 패턴 검사 정규식.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\bin\x64\Debug\특정 패턴 검사 정규식.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\obj\x64\Debug\특정 패턴 검사 정규식 Regex.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\obj\x64\Debug\특정 패턴 검사 정규식 Regex.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\obj\x64\Debug\특정 패턴 검사 정규식 Regex.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\obj\x64\Debug\특정 패턴 검사 정규식.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\특정 패턴 검사 정규식\obj\x64\Debug\특정 패턴 검사 정규식.pdb

@@ -1,0 +1,17 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\bin\x64\Debug\10_ListCollectionView.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\bin\x64\Debug\10_ListCollectionView.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\bin\x64\Debug\10_ListCollectionView.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\_10_ListCollectionView.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\10_ListCollectionView\obj\x64\Debug\10_ListCollectionView.pdb

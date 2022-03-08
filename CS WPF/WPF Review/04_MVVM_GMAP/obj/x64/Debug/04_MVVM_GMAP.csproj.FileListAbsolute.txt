@@ -1,0 +1,7 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\04_MVVM_GMAP.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\04_MVVM_GMAP.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\View\GMAP.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\04_MVVM_GMAP_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\04_MVVM_GMAP\obj\x64\Debug\04_MVVM_GMAP_MarkupCompile.lref

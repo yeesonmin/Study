@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\bin\x64\Debug\비동기 async await.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\bin\x64\Debug\비동기 async await.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\bin\x64\Debug\비동기 async await.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\obj\x64\Debug\비동기 async await.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\obj\x64\Debug\비동기 async await.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\obj\x64\Debug\비동기 async await.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\obj\x64\Debug\비동기 async await.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\비동기 async await\obj\x64\Debug\비동기 async await.pdb

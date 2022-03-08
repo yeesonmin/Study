@@ -1,0 +1,11 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\bin\x64\Debug\JSON.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\bin\x64\Debug\JSON.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\bin\x64\Debug\JSON.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.csproj.CopyComplete
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\JSON\obj\x64\Debug\JSON.pdb

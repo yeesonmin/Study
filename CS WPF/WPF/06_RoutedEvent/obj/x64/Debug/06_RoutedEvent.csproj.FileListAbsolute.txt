@@ -1,0 +1,16 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\bin\x64\Debug\_06_RoutedEvent.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\bin\x64\Debug\_06_RoutedEvent.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\bin\x64\Debug\_06_RoutedEvent.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\06_RoutedEvent.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\06_RoutedEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\06_RoutedEvent.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\06_RoutedEvent.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\06_RoutedEvent\obj\x64\Debug\_06_RoutedEvent.pdb

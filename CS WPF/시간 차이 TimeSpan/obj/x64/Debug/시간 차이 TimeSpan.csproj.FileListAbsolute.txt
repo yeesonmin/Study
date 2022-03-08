@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\bin\x64\Debug\시간 차이 TimeSpan.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\bin\x64\Debug\시간 차이 TimeSpan.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\bin\x64\Debug\시간 차이 TimeSpan.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\obj\x64\Debug\시간 차이 TimeSpan.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\obj\x64\Debug\시간 차이 TimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\obj\x64\Debug\시간 차이 TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\obj\x64\Debug\시간 차이 TimeSpan.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\시간 차이 TimeSpan\obj\x64\Debug\시간 차이 TimeSpan.pdb

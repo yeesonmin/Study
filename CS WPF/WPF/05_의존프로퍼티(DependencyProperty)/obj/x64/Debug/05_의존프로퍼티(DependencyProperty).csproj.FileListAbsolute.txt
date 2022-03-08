@@ -1,0 +1,16 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\bin\x64\Debug\05_의존프로퍼티(DependencyProperty).exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\bin\x64\Debug\05_의존프로퍼티(DependencyProperty).exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\bin\x64\Debug\05_의존프로퍼티(DependencyProperty).pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty)_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty)_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\_05_의존프로퍼티_DependencyProperty_.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\05_의존프로퍼티(DependencyProperty)\obj\x64\Debug\05_의존프로퍼티(DependencyProperty).pdb

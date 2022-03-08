@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\bin\x64\Debug\열거형.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\bin\x64\Debug\열거형.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\bin\x64\Debug\열거형.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\obj\x64\Debug\열거형 enum.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\obj\x64\Debug\열거형 enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\obj\x64\Debug\열거형 enum.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\obj\x64\Debug\열거형.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\열거형\obj\x64\Debug\열거형.pdb

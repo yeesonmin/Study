@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\bin\x64\Debug\실행시간.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\bin\x64\Debug\실행시간.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\bin\x64\Debug\실행시간.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\obj\x64\Debug\실행시간 Stopwatch.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\obj\x64\Debug\실행시간 Stopwatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\obj\x64\Debug\실행시간 Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\obj\x64\Debug\실행시간.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\실행시간\obj\x64\Debug\실행시간.pdb

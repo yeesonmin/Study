@@ -1,0 +1,21 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\bin\x64\Debug\01_MVVM 01.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\bin\x64\Debug\01_MVVM 01.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\bin\x64\Debug\01_MVVM 01.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\View\AddControl.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\View\RecieveControl.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\View\AddControl.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\View\RecieveControl.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\_01_MVVM_01.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF Review\01_MVVM 01\obj\x64\Debug\01_MVVM 01.pdb

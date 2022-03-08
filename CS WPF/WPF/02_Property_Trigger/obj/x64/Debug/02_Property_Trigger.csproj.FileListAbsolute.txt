@@ -1,0 +1,16 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\bin\x64\Debug\02_Property_Trigger.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\bin\x64\Debug\02_Property_Trigger.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\bin\x64\Debug\02_Property_Trigger.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\_02_Property_Trigger.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\02_Property_Trigger\obj\x64\Debug\02_Property_Trigger.pdb

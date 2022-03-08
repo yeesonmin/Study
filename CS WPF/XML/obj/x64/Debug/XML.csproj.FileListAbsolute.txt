@@ -1,0 +1,8 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\bin\x64\Debug\XML.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\bin\x64\Debug\XML.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\bin\x64\Debug\XML.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\obj\x64\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\obj\x64\Debug\XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\obj\x64\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\obj\x64\Debug\XML.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\XML\obj\x64\Debug\XML.pdb

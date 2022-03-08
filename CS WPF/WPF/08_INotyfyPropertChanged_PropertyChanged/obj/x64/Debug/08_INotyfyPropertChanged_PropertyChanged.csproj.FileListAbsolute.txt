@@ -1,0 +1,16 @@
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\bin\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.exe.config
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\bin\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\bin\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.pdb
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.csproj.AssemblyReference.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\App.g.cs
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged_MarkupCompile.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged_MarkupCompile.lref
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\MainWindow.baml
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.g.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\_08_INotyfyPropertChanged_PropertyChanged.Properties.Resources.resources
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.csproj.GenerateResource.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.exe
+C:\Users\SEONMIN\Desktop\Study\CS WPF\WPF\08_INotyfyPropertChanged_PropertyChanged\obj\x64\Debug\08_INotyfyPropertChanged_PropertyChanged.pdb
