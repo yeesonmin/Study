@@ -110,7 +110,12 @@
       "ProjectGuid": "329be1de-4f10-4640-b853-07ca33dec117",
       "DisplayName": "100_가상함수와 오버라이딩 활용",
       "ColorIndex": 4
+    },
+    "1e98c031-d40a-4d1a-85fc-216f7f11c7f4": {
+      "ProjectGuid": "1e98c031-d40a-4d1a-85fc-216f7f11c7f4",
+      "DisplayName": "AlgorithmAndStructure",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
