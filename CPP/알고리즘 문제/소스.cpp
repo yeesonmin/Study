@@ -1,28 +1,62 @@
 #include<iostream>
-
+#include<vector>
+#include<algorithm>
 using namespace std;
 
-void change(int n);
-void main() {
-	//거스름돈
-	//카운터 : 500, 100, 50, 10 이 무제한
-	//손님에게 줄 거스롬돈이 N이면 거스름돈의 최소 갯수
-	change(2560);
 
+bool compare(int i , int j) {
+	return j < i;
 }
 
-void change(int n) {
-	int result = 0;
-	int t = 0;
-	
-	result = n / 500;
-	t = n % 500;
-	result += (t / 100);
-	t = t % 100;
-	result += (t / 50);
-	t = t % 50;
-	result += (t / 10);
-	t = t % 10;
+void main() {
 
+	//큰수의 법칙
+	int n = 0, m = 0, k = 0;
+	vector<int> arr;
+	int result = 0;
+	
+	//입력
+	cin >> n >> m >> k;
+	for (size_t i = 0; i < n; i++)
+	{
+		int temp = 0;
+		cin >> temp;
+		arr.push_back(temp);
+	}
+
+	sort(arr.begin(), arr.end(), compare);
+
+
+	//가장 큰수와 그 다음 큰수를 구한다.
+	int first = arr[0], second = arr[1];
+
+	//방법1
+	int i = 0;
+	while (i < m)
+	{
+		for (size_t j = 0; j < k && i < m; j++)
+		{
+			result += first;
+			i++;
+		}
+
+		if (i < m) {
+			result += second;
+			i++;
+		}
+	}
+
+	
+	cout << result;
+
+	//방법2
+	//가장 큰 수가 더해지는 횟수
+	result = 0;
+	int cnt = m / (k + 1)*k + m % (k + 1);
+	result = cnt * first;
+
+
+	result += (m - cnt) * second;//두번째 큰수가 더해지는 횟수
 	cout << result;
 }
+
