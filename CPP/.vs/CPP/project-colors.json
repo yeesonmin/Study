@@ -115,7 +115,12 @@
       "ProjectGuid": "1e98c031-d40a-4d1a-85fc-216f7f11c7f4",
       "DisplayName": "AlgorithmAndStructure",
       "ColorIndex": 5
+    },
+    "3f75e55a-ffe5-45c0-94b6-96f879496736": {
+      "ProjectGuid": "3f75e55a-ffe5-45c0-94b6-96f879496736",
+      "DisplayName": "알고리즘 문제",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
