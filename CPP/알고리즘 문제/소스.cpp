@@ -4,59 +4,37 @@
 using namespace std;
 
 
-bool compare(int i , int j) {
-	return j < i;
-}
 
 void main() {
 
-	//큰수의 법칙
-	int n = 0, m = 0, k = 0;
-	vector<int> arr;
+	//숫자 카드 게임
+	int n, m;
+	vector<vector<int>> arr;
+	vector<int> N;
 	int result = 0;
-	
-	//입력
-	cin >> n >> m >> k;
+	cin >> n >> m;
 	for (size_t i = 0; i < n; i++)
 	{
-		int temp = 0;
-		cin >> temp;
-		arr.push_back(temp);
-	}
-
-	sort(arr.begin(), arr.end(), compare);
-
-
-	//가장 큰수와 그 다음 큰수를 구한다.
-	int first = arr[0], second = arr[1];
-
-	//방법1
-	int i = 0;
-	while (i < m)
-	{
-		for (size_t j = 0; j < k && i < m; j++)
+		for (size_t j = 0; j < m; j++)
 		{
-			result += first;
-			i++;
+			int temp = 0;
+			cin >> temp;
+			N.push_back(temp);
 		}
+		arr.push_back(N);
+		N.clear();
+	}
 
-		if (i < m) {
-			result += second;
-			i++;
+	for (size_t i = 0; i < n; i++)
+	{
+		sort(arr[i].begin(), arr[i].end());
+		
+		if (result < arr[i][0]) {
+			result = arr[i][0];
 		}
 	}
 
-	
 	cout << result;
 
-	//방법2
-	//가장 큰 수가 더해지는 횟수
-	result = 0;
-	int cnt = m / (k + 1)*k + m % (k + 1);
-	result = cnt * first;
-
-
-	result += (m - cnt) * second;//두번째 큰수가 더해지는 횟수
-	cout << result;
 }
 
