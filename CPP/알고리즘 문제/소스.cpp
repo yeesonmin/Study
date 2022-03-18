@@ -7,34 +7,24 @@ using namespace std;
 
 void main() {
 
-	//숫자 카드 게임
-	int n, m;
-	vector<vector<int>> arr;
-	vector<int> N;
+	//1이 될 때까지
+	int n, k;
 	int result = 0;
-	cin >> n >> m;
-	for (size_t i = 0; i < n; i++)
-	{
-		for (size_t j = 0; j < m; j++)
-		{
-			int temp = 0;
-			cin >> temp;
-			N.push_back(temp);
-		}
-		arr.push_back(N);
-		N.clear();
-	}
+	cin >> n >> k;
 
-	for (size_t i = 0; i < n; i++)
+	while (n != 1)
 	{
-		sort(arr[i].begin(), arr[i].end());
-		
-		if (result < arr[i][0]) {
-			result = arr[i][0];
+		if (n % k != 0) {
+			n--;
+			result++;
+		}
+		else
+		{
+			n /= k;
+			result++;
 		}
 	}
 
 	cout << result;
-
 }
 
