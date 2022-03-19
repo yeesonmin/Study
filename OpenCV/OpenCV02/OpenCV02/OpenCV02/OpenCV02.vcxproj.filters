@@ -24,5 +24,8 @@
     <ClCompile Include="03_크로마키 합성.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04_카툰필터.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
