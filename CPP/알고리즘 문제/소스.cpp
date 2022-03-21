@@ -1,30 +1,44 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
+#include<string>
+
 using namespace std;
 
 
 
 void main() {
 
-	//1이 될 때까지
-	int n, k;
+	//상하좌우
+	int n;
+	int c = 1, r = 1;
 	int result = 0;
-	cin >> n >> k;
+	char s;
 
-	while (n != 1)
+	cin>> n;
+	cin.ignore();
+	do
 	{
-		if (n % k != 0) {
-			n--;
-			result++;
-		}
-		else
+		cin.get(s);
+		switch (s)
 		{
-			n /= k;
-			result++;
+		case 'R':
+			if (r + 1 <= n) r++;
+			break;
+		case 'L':
+			if (r - 1 > 0) r--;
+			break;
+		case 'U':
+			if (c - 1 > 0) c--;
+			break;
+		case 'D':
+			if (c + 1 <= n) c++; 
+			break;
+		default:
+			break;
 		}
-	}
-
-	cout << result;
+	} while (s != '\n');
+	
+	cout << c << " " << r;
 }
 
