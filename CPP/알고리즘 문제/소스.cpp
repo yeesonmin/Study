@@ -3,37 +3,47 @@
 using namespace std;
 
 void main() {
-	//½Ã°¢
-	int n = 0;
+	//¿Õ½ÇÀÇ ³ªÀÌÆ®
+	string s;
+	cin >> s;
+
+	//a~h
+	//1~8
+	int row = s[0] - 'a' + 1;
+	int col = s[1] - '0';
 	int result = 0;
-	cin >> n;
 
-	
-	for (size_t i = 0; i <= n; i++)
-	{
-		
-		if ((to_string(i).find("3") != string::npos)) {
-			result += 60*60;
-			continue;
-		}
-
-		for (int j = 0; j < 60; j++)
-		{
-			if ((to_string(j).find("3") != string::npos)) {
-				result += 60;
-				continue;
-			}
-
-			for (size_t k = 0; k < 60; k++)
-			{
-				if (to_string(k).find("3") != string::npos) result++;
-			}
-			
-		}
-		
+	//¿ì2
+	if (row + 2 <= 8) {
+		//À§1
+		if (col - 1 > 0) result++;
+		//¾Æ1
+		if (col + 1 <= 8) result++;
 	}
 
-	
+	//ÁÂ2
+	if (row - 2 > 0) {
+		//À§1
+		if (col - 1 > 0) result++;
+		//¾Æ1
+		if (col + 1 <= 8) result++;
+	}
+
+	//»ó2
+	if (col - 2 > 0) {
+		//¿Þ1
+		if (row - 1 > 0) result++;
+		//¿ì1
+		if (row + 1 <= 8) result++;
+	}
+
+	//ÇÏ2
+	if (col + 2 <= 8) {
+		//¿Þ1
+		if (row - 1 > 0) result++;
+		//¿ì1
+		if (row + 1 <= 8) result++;
+	}
 
 	cout << result;
 }
