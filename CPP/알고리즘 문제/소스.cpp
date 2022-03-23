@@ -1,44 +1,39 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
-#include<string>
-
+#include <iostream>
+#include <string>
 using namespace std;
 
-
-
 void main() {
-
-	//상하좌우
-	int n;
-	int c = 1, r = 1;
+	//시각
+	int n = 0;
 	int result = 0;
-	char s;
+	cin >> n;
 
-	cin>> n;
-	cin.ignore();
-	do
-	{
-		cin.get(s);
-		switch (s)
-		{
-		case 'R':
-			if (r + 1 <= n) r++;
-			break;
-		case 'L':
-			if (r - 1 > 0) r--;
-			break;
-		case 'U':
-			if (c - 1 > 0) c--;
-			break;
-		case 'D':
-			if (c + 1 <= n) c++; 
-			break;
-		default:
-			break;
-		}
-	} while (s != '\n');
 	
-	cout << c << " " << r;
-}
+	for (size_t i = 0; i <= n; i++)
+	{
+		
+		if ((to_string(i).find("3") != string::npos)) {
+			result += 60*60;
+			continue;
+		}
 
+		for (int j = 0; j < 60; j++)
+		{
+			if ((to_string(j).find("3") != string::npos)) {
+				result += 60;
+				continue;
+			}
+
+			for (size_t k = 0; k < 60; k++)
+			{
+				if (to_string(k).find("3") != string::npos) result++;
+			}
+			
+		}
+		
+	}
+
+	
+
+	cout << result;
+}
