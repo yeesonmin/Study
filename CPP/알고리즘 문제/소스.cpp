@@ -1,24 +1,35 @@
 #include <iostream>
 #include <vector>
+#include <queue>
 using namespace std;
 
 
 vector<int> graph[8];
 bool visited[8] = { false };
 
-void DFS(int i) {
-	cout << i+1 << " ";
+void BFS(int i) {
+	queue<int> q;
+	q.push(i);
 	visited[i] = true;
 
-	for (int j : graph[i])
+	while (!q.empty())
 	{
-		if (!visited[j-1]) {
-			DFS(j-1);
+		int j = q.front();
+		q.pop();
+		cout << j + 1 << " ";
+
+		for (int k : graph[j])
+		{
+			if (!visited[k - 1]) {
+				q.push(k - 1);
+				visited[k - 1] = true;
+			}
 		}
 	}
+
 }
 void main() {
-	//DFS
+	//BFS
 	
 
 	graph[0].push_back(2);
@@ -47,6 +58,6 @@ void main() {
 	graph[7].push_back(1);
 	graph[7].push_back(7);
 
-	DFS(0);
+	BFS(0);
 
 }
