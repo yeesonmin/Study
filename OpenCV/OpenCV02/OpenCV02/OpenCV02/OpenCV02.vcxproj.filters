@@ -30,5 +30,8 @@
     <ClCompile Include="05_문서스캔.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="06_이미지 자르고 저장.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

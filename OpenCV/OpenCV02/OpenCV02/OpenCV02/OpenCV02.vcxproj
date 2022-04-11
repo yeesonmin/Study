@@ -24,6 +24,7 @@
     <ClCompile Include="03_크로마키 합성.cpp" />
     <ClCompile Include="04_카툰필터.cpp" />
     <ClCompile Include="05_문서스캔.cpp" />
+    <ClCompile Include="06_이미지 자르고 저장.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
