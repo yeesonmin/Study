@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 import urllib.request
 import os
+from multiprocessing import Pool
 
 def createDirectory(directory):
     try:
@@ -13,14 +14,17 @@ def createDirectory(directory):
         print("Error: Failed to create the directory.")
 
 def crawling_img(name):
+
     driver = webdriver.Chrome()
     driver.get("https://www.google.co.kr/imghp?hl=ko&tab=wi&authuser=0&ogbl")
     elem = driver.find_element(By.XPATH, '//*[@id="sbtc"]/div/div[2]/input')
     elem.send_keys(name)
     elem.send_keys(Keys.RETURN)
 
-    #
-    SCROLL_PAUSE_TIME = 1
+    print(name + "검색 중...")
+    time.sleep(4)
+
+    SCROLL_PAUSE_TIME = 1.5
     # Get scroll height
     last_height = driver.execute_script("return document.body.scrollHeight")  # 브라우저의 높이를 자바스크립트로 찾음
     while True:
@@ -53,7 +57,7 @@ def crawling_img(name):
             imgUrl = driver.find_element(By.XPATH, '/html/body/div[3]/c-wiz/div[3]/div[2]/div[3]/div/div/div[3]/div[2]/c-wiz/div/div[1]/div[1]/div[3]/div/a/img').get_attribute("src")
             path = dir + "/"
             urllib.request.urlretrieve(imgUrl, path + str(count) + ".png")
-            print(str(count) + ".png")
+            print(name + str(count) + ".png")
             count = count + 1
             # if count >= 260:
             #     break
@@ -63,9 +67,14 @@ def crawling_img(name):
 
 
 searchs = ["사과", "사과과일", "사과나무", "사과재배", "apple fruit", "apple trees", "apple cultivation"]
-for search in searchs:
-    crawling_img(search)
-#
+
+if __name__=='__main__':
+    pool = Pool(processes=4) # 4개의 프로세스를 사용합니다.
+    pool.map(crawling_img, searchs) # pool에 일을 던져줍니다.
+
+# for search in searchs:
+#     crawling_img(search)
+#####
 # keyword='사과'
 # driver = webdriver.Chrome()
 # driver.get("https://www.google.com/imghp?hl=ko__&gws_rd=ssl")
