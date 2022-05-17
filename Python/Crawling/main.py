@@ -66,7 +66,7 @@ def crawling_img(name):
     driver.close()
 
 
-searchs = ["사과", "사과과일", "사과나무", "사과재배", "apple fruit", "apple trees", "apple cultivation"]
+searchs = ["apple trees", "apple cultivation"]
 
 if __name__=='__main__':
     pool = Pool(processes=4) # 4개의 프로세스를 사용합니다.
